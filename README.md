@@ -1,6 +1,6 @@
 Учебный проект - [Определение выгодного тарифа для телеком компании](https://github.com/alexsurina/study-project-tariff/blob/main/tariff.ipynb)
 
-Инструменты: Python, pandas, sklearn, ML, DecisionTree, RandomForest, LinearRegression.  
+Инструменты: Python, pandas, sklearn, ML, DecisionTree, RandomForest, LogisticRegression.  
 
 Описание: Имея данные о поведении клиентов, которые уже перешли на эти тарифы, нужно построить модель для задачи классификации, которая выберет подходящий тариф, с максимально большим значением accuracy. 
 
